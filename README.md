@@ -88,3 +88,4 @@ python3 act/test_on_real.py
 **Note:**
 - Ensure all SDKs and dependencies are properly installed and configured before running the scripts.
 - Refer to the individual script files for additional arguments or configuration options.
+- For latest version of this repo check [here](https://github.com/sreevishakhv/D1_arm_datacollection)
